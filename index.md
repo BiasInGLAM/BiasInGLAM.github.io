@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Bias in GLAM: From Data Creation to Algorithmic Access"
+layout: home
+title: "Home"
 ---
 
 # Bias in GLAM: From Data Creation to Algorithmic Access
