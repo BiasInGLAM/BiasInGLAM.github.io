@@ -5,9 +5,10 @@ url: "https://BiasInGLAM.github.io"
 baseurl: ""
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-modernist
+#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+#plugins:
+#  - jekyll-remote-theme
 # theme: jekyll-theme-minimal  # check for other supported themes later
 
 # Optional but useful
