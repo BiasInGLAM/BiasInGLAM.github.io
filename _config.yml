@@ -11,5 +11,11 @@ theme: minima
 #  - jekyll-remote-theme
 # theme: jekyll-theme-minimal  # check for other supported themes later
 
-# Optional but useful
+# Optional but useful in basic design
 show_downloads: false
+
+# Items included in the menu bar (and their order)
+header_pages:
+  - cfp.md
+  - program.md
+  - organizers.md
