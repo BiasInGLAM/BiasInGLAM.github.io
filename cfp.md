@@ -50,3 +50,7 @@ Reviews will be single-blind.
 ## Submission
 
 Papers should be submitted via EasyChair -- the link will be added in the upcoming days.
+
+## Programme Committee
+
+*To be announced.*
