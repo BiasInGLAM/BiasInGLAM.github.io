@@ -42,9 +42,9 @@ Reviews will be single-blind.
 
 | | |
 |---|---|
-| Submission deadline | TBA |
-| Notification of acceptance | TBA |
-| Camera-ready deadline | TBA |
+| Submission deadline | July 9, 2026 |
+| Notification of acceptance | August 24, 2026 |
+| Camera-ready deadline | September 10, 2026 |
 | Workshop date | TBA |
 
 ## Submission
