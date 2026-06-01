@@ -13,6 +13,7 @@ _Philipps-Universität Marburg_
 
 Peter Bell (Ph.D. Art History) received a PhD in art history at Uni Marburg 2011 and worked at the Collaborative Research Center 600 at Uni Trier. He was postdoc in the Computer Vision Group at Uni Heidelberg (Ommer lab) and group leader at the Heidelberg Academy of Sciences and Humanities. Until 2021 he was assistant professor for Digital Humanities at FAU Erlangen-Nuremberg and returned to Marburg as full professor for Art History and Digital Humanities. His research focuses are digital art history (computer vision) and social art history. 
 
+<a id="hagener"></a>
 ## Malte Hagener
 _Philipps-Universität Marburg_
 
