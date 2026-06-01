@@ -28,7 +28,7 @@ Topics of interest include but are not limited to:
 
 ## Submission Types
 
-We welcome two types of submissions:
+We welcome three types of submissions:
 
 - **Full papers** (8–12 pages): presenting a substantial original contribution. This includes empirical studies, system descriptions, dataset contributions, and theoretical or methodological advances.
 - **Short papers / position papers** (4–6 pages): presenting work in progress or preliminary findings that would benefit from community discussion.
