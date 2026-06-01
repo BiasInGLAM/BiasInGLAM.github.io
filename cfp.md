@@ -3,10 +3,7 @@ layout: page
 title: "Call for Papers"
 ---
 
-We invite submissions reporting original research, work in progress, and 
-position papers on bias in multimodal GLAM collections. The workshop 
-welcomes contributions from AI and machine learning, digital library science, 
-information retrieval, and the humanities.
+We invite submissions reporting original research, work in progress, and position papers on bias in multimodal GLAM collections. The workshop welcomes contributions from AI and machine learning, digital library science, information retrieval, and the humanities, including art history, media studies, history, film studies, archaeology, and adjacent fields.
 
 ## Topics
 
@@ -17,6 +14,7 @@ Topics of interest include but are not limited to:
 - Colonial, gender, and representational bias in cultural heritage data
 - Transferability of bias detection and mitigation methods across modalities
 - Responsible AI for digital libraries and cultural heritage
+- Access management & collection organisation
 - Explainable AI in GLAM contexts
 - Power and representation in collection and digitisation decisions
 - Practical institutional interventions for bias mitigation
