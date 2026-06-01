@@ -23,7 +23,7 @@ Topics of interest include but are not limited to:
 - **Anett Hoppe** — TIB – Leibniz Information Centre for Science and Technology, Philipps-Universität Marburg & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#hoppe)
 - **Peter Bell** — Philipps-Universität Marburg — [bio](https://biasinglam.github.io/organizers.html#peter-bell)
 - **Ralph Ewerth** — Philipps-Universität Marburg, TIB – Leibniz Information Centre for Science and Technology & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#ralph-ewerth)
-- **Malte Hagener** — Philipps-Universität Marburg — [bio](https://biasinglam.github.io/organizers.html#malte-hagener)
+- **Malte Hagener** — Philipps-Universität Marburg — [bio](https://biasinglam.github.io/organizers.html#hagener)
 - **Christin Seifert** — Philipps-Universität Marburg & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#christin-seifert)
 
 ## Submission Types
