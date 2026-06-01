@@ -20,7 +20,7 @@ Malte Hagener (Ph.D. Media Studies) is a professor of film and media studies at 
 practices and digital methodology. 
 
 ## Christin Seifert
-_Philipps-Universität Marburg_
+_Philipps-Universität Marburg & hessian.AI_
 
 Christin Seifert (Ph.D. Computer Science) holds the Chair of Artificial Intelligence at Philipps-Universität Marburg, Germany. Her research focuses on machine learning, natural language processing, and explainable AI, with a particular emphasis on identifying and mitigating failure modes in AI systems. She has led and contributed to multiple projects on trustworthy AI and is interested in the responsible use of AI for knowledge discovery and digital libraries.
 
