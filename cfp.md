@@ -32,9 +32,10 @@ Topics of interest include but are not limited to:
 
 We welcome two types of submissions:
 
-- **Full papers** (8–12 pages): completed research with results
-- **Short papers / position papers** (4–6 pages): work in progress, 
-  provocations, or position statements
+- **Full papers** (8–12 pages): presenting a substantial original contribution. This includes empirical studies, system descriptions, dataset contributions, and theoretical or methodological advances.
+- **Short papers / position papers** (4–6 pages): presenting work in progress or preliminary findings that would benefit from community discussion.
+- **Position papers** (2-6 pages): arguing for a particular viewpoint or perspective on where the field should go, what problems need attention, or how the community should approach them. Position papers adopt a broader, critical stance rather than reporting completed work.
+
 
 All submissions should follow the **Springer CCIS format**. Accepted 
 contributions will be published in the Springer Communications in Computer 
