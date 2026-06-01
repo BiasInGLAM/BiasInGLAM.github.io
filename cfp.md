@@ -21,6 +21,13 @@ Topics of interest include but are not limited to:
 - Power and representation in collection and digitisation decisions
 - Practical institutional interventions for bias mitigation
 
+## Organisation Committee
+**Anett Hoppe** — TIB – Leibniz Information Centre for Science and Technology, Philipps-Universität Marburg & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#hoppe)
+**Peter Bell** — Philipps-Universität Marburg — [bio](https://biasinglam.github.io/organizers.html#peter-bell)
+**Ralph Ewerth** — Philipps-Universität Marburg, TIB – Leibniz Information Centre for Science and Technology & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#ralph-ewerth)
+**Malte Hagener** — Philipps-Universität Marburg — [bio](https://biasinglam.github.io/organizers.html#malte-hagener)
+**Christin Seifert** — Philipps-Universität Marburg & hessian.AI — [bio](https://biasinglam.github.io/organizers.html#christin-seifert)
+
 ## Submission Types
 
 We welcome two types of submissions:
@@ -49,7 +56,7 @@ Reviews will be single-blind.
 
 ## Submission
 
-Papers should be submitted via EasyChair -- the link will be added in the upcoming days.
+Papers should be submitted via EasyChair: [Submission Link](https://easychair.org/conferences/?conf=biasinglam26)
 
 ## Programme Committee
 
