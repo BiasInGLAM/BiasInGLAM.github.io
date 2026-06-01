@@ -42,7 +42,7 @@ and Information Science (CCIS) series.
 ## Review Process
 
 Submissions will be reviewed by an external programme committee. 
-Reviews will be single-blind.
+Reviews will be double-blind.
 
 ## Important Dates
 
