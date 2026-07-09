@@ -48,7 +48,7 @@ Reviews will be double-blind.
 
 | | |
 |---|---|
-| Submission deadline | July 9, 2026 |
+| Submission deadline | ~~July 9, 2026~~ July 16, 2026 |
 | Notification of acceptance | August 24, 2026 |
 | Camera-ready deadline | September 10, 2026 |
 | Workshop date | TBA |
