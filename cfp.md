@@ -57,6 +57,10 @@ Reviews will be double-blind.
 Papers should be submitted via EasyChair: [Submission Link](https://easychair.org/conferences/?conf=biasinglam26)
 
 
-## Programme Committee
+## Programme Committee (in progress)
 
-*To be announced.*
+- Sonia Campanini
+- Argie Kasprzik
+- Bregt Lameris
+- Chiao-I Tseng
+- Matthias Zeppelzauer
